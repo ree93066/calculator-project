@@ -1,7 +1,5 @@
 # calculator-project
-This is a calculator project
-<br>
-by Reena
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
